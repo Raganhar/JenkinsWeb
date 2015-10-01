@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "JenkinsWebapp"
+  },
+  "hostingPlanName": {
+    "value": "DevTest"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "256f9ff1-bebb-411b-9905-4d6269fe4b9e"
+  },
+  "resourceGroup": {
+    "value": "Default-Storage-NorthEurope"
+  }
+}
